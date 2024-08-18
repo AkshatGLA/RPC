@@ -3,7 +3,7 @@ numpy
 opencv-python
 tensorflow
 Pillow
-pickle5
+pickle5==0.0.12
 python-dotenv
 google-generativeai
 langchain
