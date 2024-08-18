@@ -1,7 +1,7 @@
 numpy
 opencv-python
 tensorflow
-pickle5==0.0.12
+pickle5==0.0.11  # Using a different version
 python-dotenv
 streamlit
 google-generativeai
@@ -11,4 +11,4 @@ langchain-community
 langchain-core
 PyPDF2
 Pillow
-faiss-cpu  # or faiss-gpu if you use GPU
+faiss-cpu
