@@ -1,14 +1,14 @@
-streamlit==1.25.0
-numpy==1.24.4
-opencv-python==4.8.0.76
-tensorflow==2.14.0
-Pillow==9.5.0
+numpy
+opencv-python
+tensorflow
 pickle5==0.0.12
-python-dotenv==1.0.0
-google-generativeai==0.1.0
-langchain==0.0.296
-langchain-google-genai==0.0.11
-langchain-community==0.0.11
-faiss-cpu==1.7.4
-PyPDF2==3.0.1
-pytesseract==0.3.10
+python-dotenv
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+PyPDF2
+Pillow
+faiss-cpu  # or faiss-gpu if you use GPU
