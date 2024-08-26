@@ -11,3 +11,5 @@ langchain-core
 PyPDF2
 Pillow
 faiss-cpu
+pytesseract
+
