@@ -1,7 +1,6 @@
 numpy
 opencv-python
 tensorflow
-pickle5==0.0.11  # Using a different version
 python-dotenv
 streamlit
 google-generativeai
